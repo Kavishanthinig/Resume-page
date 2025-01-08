@@ -1,0 +1,39 @@
+body{
+    text-align:center;
+     background-image:url("https://img.freepik.com/free-vector/vintage-leaf-old-brown-paper_53876-99506.jpg"); 
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     
+     
+
+}
+header{
+    background-color: black;
+}
+header h1{
+    color: aliceblue;
+    padding:10px;
+}
+header nav ul{
+    padding:10px;
+}
+header nav ul li{
+    color:salmon;
+    display: inline;
+    padding:40px;
+    
+}
+header nav ul li a{
+    color:sandybrown;
+    text-decoration: none;
+}
+
+#Home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#Skills ul li{
+    display:inline
+}
